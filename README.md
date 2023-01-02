@@ -1,5 +1,5 @@
 # SIIM-COVID-19-Detection ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpvtien96%2FSIIM-COVID-19-Detection&countColor=%23dce775)
-> [**Identification and localization COVID-19 abnormalities on chest radiographs**](https://drive.google.com/file/d/1tgmOoJpSYjiDAOTYwTCjrQMP4Fylq3uh/view?usp=sharing)            
+> [**Identification and localization COVID-19 abnormalities on chest radiographs**](https://drive.google.com/file/d/1UKCq5DIXWZl8-5qNTufzZ-licz3MU2jq/view?usp=sharing)            
 > Van Tien Pham and Thanh Phuong Nguyen        
 
 ![](readme/ProposedFramework.png)
@@ -10,7 +10,7 @@
 Solutions to screen and diagnose positive patients for the SARS-CoV-2 promptly and efficiently are critical in the context of the COVID-19 pandemic's complex evolution. Recent researches have demonstrated the efficiency of deep learning and particularly convolutional neural networks (CNNs) in classifying and detecting lung disease-related lesions from radiographs. This paper presents a solution using ensemble learning techniques on advanced CNNs to classify as well as localize COVID-19-related abnormalities in radiographs. Two classifiers including EfficientNetV2 and NFNet are combined with three detectors, DETR, Yolov7 and EfficientDet. Along with gathering and training the model on a large number of datasets, image augmentation and cross validation are also addressed. Since then, this study has shown %extremely
 promising results and has received excellent marks in the Society for Imaging Informatics in Medicine's competition. The analysis in model selection for the trade-off between speed and accuracy is also given.
 ## News
-- **[2023.09.06]** Paper is accepted to [AICV 2023](http://egyptscience.net/AICV2023/home.html).
+- **[2023.01.02]** Paper is accepted to [AICV 2023](http://egyptscience.net/AICV2023/home.html).
 - **[2022.09.06]** Create baseline.
 
 
