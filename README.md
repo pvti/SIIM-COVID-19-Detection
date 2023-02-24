@@ -16,14 +16,7 @@ promising results and has received excellent marks in the Society for Imaging In
 
 ## Main results
 
-F1 score of the COVID-19 abnormalities classifiers on the SIIM test set:
-
-|   Classifier   |        F1 score        |                    |                          |                     |
-|----------------|:----------------------:|:------------------:|:------------------------:|:-------------------:|
-|                | Negative for Pneumonia | Typical Appearance | Indeterminate Appearance | Atypical Appearance |
-| COVID-net      |          0.71          |        0.74        |           0.48           |         0.53        |
-| NFNet          |          0.79          |        0.72        |           0.59           |         0.56        |
-| EfficientNetv2 |          0.83          |        0.75        |           0.61           |         0.54        |
+![](readme/ClassificationPerformance.png)
 
 Evaluation of the COVID-19 lesion detector on the SIIM test set:
 
