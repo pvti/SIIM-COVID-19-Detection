@@ -55,10 +55,13 @@ Code is released under the [Apache 2.0 license](LICENSE).
 If you use this work in your research or wish to refer to the results, please use the following BibTeX entry.
 
 ```BibTeX
-@misc{tien2022COVID,
-  author =       {Van Tien Pham, Thanh Phuong Nguyen},
-  title =        {Identification and localization COVID-19 abnormalities on chest radiographs},
-  howpublished = {\url{https://github.com/pvtien96/SIIM-COVID-19-Detection}},
-  year =         {2022}
+@InProceedings{10.1007/978-3-031-27762-7_24,
+author="Pham, Van Tien and Nguyen, Thanh Phuong",
+title="Identification and Localization COVID-19 Abnormalities on Chest Radiographs",
+booktitle="The 3rd International Conference on Artificial Intelligence and Computer Vision (AICV2023)",
+year="2023",
+publisher="Springer Nature Switzerland",
+pages="251--261",
+isbn="978-3-031-27762-7"
 }
 ```
