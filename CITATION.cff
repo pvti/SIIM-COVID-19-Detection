@@ -18,8 +18,7 @@ preferred-citation:
   - family-names: Nguyen
     given-names:  Thanh Phuong
   title: "Identification and Localization COVID-19 Abnormalities on Chest Radiographs"
-  booktitle: "The 3rd International Conference on Artificial Intelligence and Computer Vision (AICV2023), March 5--7, 2023"
-  publisher: "Springer Nature Switzerland"
-  pages: "251--261",
-  isbn: "978-3-031-27762-7"
+  journal: "The 3rd International Conference on Artificial Intelligence and Computer Vision (AICV2023), March 5--7, 2023"
+  start: 251
+  end: 261
   year: 2023
