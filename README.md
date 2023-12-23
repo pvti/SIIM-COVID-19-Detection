@@ -24,9 +24,10 @@
 - **[2022.09.06]** Create baseline.
 
 
-## Main results
-
-![](readme/ClassificationPerformance.png)
+## 🦠 Main results
+<p align="center" width="100%">
+    <img src="readme/ClassificationPerformance.png" width="50%" height="50%">
+</p>
 
 Evaluation of the COVID-19 lesion detector on the SIIM test set:
 
